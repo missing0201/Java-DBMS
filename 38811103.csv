@@ -1,0 +1,208 @@
+model_name,OS,weight,manufacturer_name,worth,country,cpu_name,brand,speed
+iPhone 8,iOS,150,Apple,19,USA,A11 Bionic,Apple,2.39
+iPhone 8 Plus,iOS,202,Apple,19,USA,A11 Bionic,Apple,2.39
+iPhone X,iOS,174,Apple,19,USA,A11 Bionic,Apple,2.39
+iPhone XR,iOS,194,Apple,19,USA,A12,Apple,2.49
+iPhone XS,iOS,177,Apple,19,USA,A12,Apple,2.49
+iPhone XS Max,iOS,208,Apple,19,USA,A12,Apple,2.49
+iPhone 11,iOS,194,Apple,19,USA,A13 Bionic,Apple,2.65
+iPhone 11 Pro,iOS,188,Apple,19,USA,A13 Bionic,Apple,2.65
+iPhone 11 Pro Max,iOS,226,Apple,19,USA,A13 Bionic,Apple,2.65
+iPhone SE (2nd generation),iOS,148,Apple,19,USA,A13 Bionic,Apple,2.65
+iPhone 12 Mini,iOS,133,Apple,19,USA,A14,Apple,2.99
+iPhone 12,iOS,164,Apple,19,USA,A14,Apple,2.99
+iPhone 12 Pro,iOS,189,Apple,19,USA,A14,Apple,2.99
+iPhone 12 Pro Max,iOS,226,Apple,19,USA,A14,Apple,2.99
+iPhone 13 Mini,iOS,140,Apple,19,USA,A15 Bionic,Apple,3.4
+iPhone 13,iOS,170,Apple,19,USA,A15 Bionic,Apple,3.4
+iPhone 13 Pro,iOS,204,Apple,19,USA,A15 Bionic,Apple,3.4
+iPhone 13 Pro Max,iOS,238,Apple,19,USA,A15 Bionic,Apple,3.4
+Galaxy S8,Android,155,Samsung,22,South Korea,Exynos 8895,Samsung,2.3
+Galaxy S8 Plus,Android,173,Samsung,22,South Korea,Exynos 8895,Samsung,2.3
+Galaxy S9,Android,163,Samsung,22,South Korea,Exynos 9810,Samsung,2.7
+Galaxy S9 Plus,Android,189,Samsung,22,South Korea,Exynos 9810,Samsung,2.7
+Galaxy S10e,Android,150,Samsung,22,South Korea,Exynos 9820,Samsung,2.7
+Galaxy S10,Android,157,Samsung,22,South Korea,Exynos 9820,Samsung,2.7
+Galaxy S10 Plus,Android,175,Samsung,22,South Korea,Exynos 9820,Samsung,2.7
+Galaxy S10 Lite,Android,186,Samsung,22,South Korea,Exynos 9820,Samsung,2.7
+Galaxy S20,Android,163,Samsung,22,South Korea,Exynos 990,Samsung,2.73
+Galaxy S20 Plus,Android,186,Samsung,22,South Korea,Exynos 990,Samsung,2.73
+Galaxy S20 Ultra,Android,220,Samsung,22,South Korea,Exynos 990,Samsung,2.73
+Galaxy S21,Android,169,Samsung,22,South Korea,Exynos 2100,Samsung,2.9
+Galaxy S21 Plus,Android,200,Samsung,22,South Korea,Exynos 2100,Samsung,2.9
+Galaxy S21 Ultra,Android,229,Samsung,22,South Korea,Exynos 2100,Samsung,2.9
+Pixel,Android,143,Google,1.5,USA,Snapdragon 821,Qualcomm,2.15
+Pixel XL,Android,168,Google,1.5,USA,Snapdragon 821,Qualcomm,2.15
+Pixel 2,Android,143,Google,1.5,USA,Snapdragon 835,Qualcomm,2.35
+Pixel 2 XL,Android,175,Google,1.5,USA,Snapdragon 835,Qualcomm,2.35
+Pixel 3,Android,148,Google,1.5,USA,Snapdragon 845,Qualcomm,2.5
+Pixel 3 XL,Android,184,Google,1.5,USA,Snapdragon 845,Qualcomm,2.5
+Pixel 3a,Android,147,Google,1.5,USA,Snapdragon 670,Qualcomm,2
+Pixel 3a XL,Android,167,Google,1.5,USA,Snapdragon 670,Qualcomm,2
+Pixel 4,Android,162,Google,1.5,USA,Snapdragon 855,Qualcomm,2.84
+Pixel 4 XL,Android,193,Google,1.5,USA,Snapdragon 855,Qualcomm,2.84
+Pixel 4a,Android,143,Google,1.5,USA,Snapdragon 730,Qualcomm,2.2
+Pixel 4a 5G,Android,168,Google,1.5,USA,Snapdragon 765G,Qualcomm,2.4
+Pixel 5,Android,151,Google,1.5,USA,Snapdragon 765G,Qualcomm,2.4
+Xperia XZ,Android,161,Sony,0.3,Japan,Snapdragon 820,Qualcomm,2.15
+Xperia XZ Premium,Android,195,Sony,0.3,Japan,Snapdragon 835,Qualcomm,2.45
+Xperia XZ1,Android,156,Sony,0.3,Japan,Snapdragon 835,Qualcomm,2.45
+Xperia XZ1 Compact,Android,143,Sony,0.3,Japan,Snapdragon 835,Qualcomm,2.45
+Xperia XZ2,Android,198,Sony,0.3,Japan,Snapdragon 845,Qualcomm,2.8
+Xperia XZ2 Compact,Android,168,Sony,0.3,Japan,Snapdragon 845,Qualcomm,2.8
+Xperia XZ3,Android,193,Sony,0.3,Japan,Snapdragon 845,Qualcomm,2.8
+Xperia 1,Android,191,Sony,0.3,Japan,Snapdragon 855,Qualcomm,2.84
+Xperia 1 II,Android,181,Sony,0.3,Japan,Snapdragon 865,Qualcomm,2.84
+Xperia 5,Android,164,Sony,0.3,Japan,Snapdragon 855,Qualcomm,2.84
+Xperia 5 II,Android,168,Sony,0.3,Japan,Snapdragon 865,Qualcomm,2.84
+Xperia 10,Android,162,Sony,0.3,Japan,Snapdragon 630,Qualcomm,2.2
+Xperia 10 Plus,Android,180,Sony,0.3,Japan,Snapdragon 636,Qualcomm,1.8
+Xperia 10 III,Android,169,Sony,0.3,Japan,Snapdragon 775,Qualcomm,2.5
+Mate 9,Android,190,Huawei,15,China,Kirin 960,HiSilicon,2.4
+Mate 9 Pro,Android,169,Huawei,15,China,Kirin 960,HiSilicon,2.4
+Mate 10,Android,178,Huawei,15,China,Kirin 970,HiSilicon,2.36
+Mate 10 Pro,Android,178,Huawei,15,China,Kirin 970,HiSilicon,2.36
+Mate 20,Android,188,Huawei,15,China,Kirin 980,HiSilicon,2.6
+Mate 20 Pro,Android,189,Huawei,15,China,Kirin 980,HiSilicon,2.6
+Mate 20 X,Android,232,Huawei,15,China,Kirin 980,HiSilicon,2.6
+Mate 20 X (5G),Android,233,Huawei,15,China,Kirin 980,HiSilicon,2.6
+Mate 30,Android,196,Huawei,15,China,Kirin 990,HiSilicon,2.86
+Mate 30 Pro,Android,198,Huawei,15,China,Kirin 990,HiSilicon,2.86
+Mate 30 RS Porsche Design,Android,198,Huawei,15,China,Kirin 990,HiSilicon,2.86
+Mate 40,Android,212,Huawei,15,China,Kirin 9000,HiSilicon,3.13
+Mate 40 Pro,Android,212,Huawei,15,China,Kirin 9000,HiSilicon,3.13
+Mate 40 Pro Plus,Android,230,Huawei,15,China,Kirin 9000,HiSilicon,3.13
+Mate X,Android,295,Huawei,15,China,Kirin 980,HiSilicon,2.6
+Mate Xs,Android,300,Huawei,15,China,Kirin 990,HiSilicon,2.86
+Mate X2,Android,295,Huawei,15,China,Kirin 9000E,HiSilicon,3.23
+Honor 8,Android,153,Honor,3,China,Kirin 950,HiSilicon,2.3
+Honor 8 Pro,Android,184,Honor,3,China,Kirin 960,HiSilicon,2.4
+Honor 9,Android,155,Honor,3,China,Kirin 960,HiSilicon,2.4
+Honor 9 Lite,Android,149,Honor,3,China,Kirin 659,HiSilicon,2.36
+Honor 9i,Android,164,Honor,3,China,Kirin 659,HiSilicon,2.36
+Honor 9N,Android,152,Honor,3,China,Kirin 659,HiSilicon,2.36
+Honor 10,Android,153,Honor,3,China,Kirin 970,HiSilicon,2.36
+Honor 10 Lite,Android,162,Honor,3,China,Kirin 710,HiSilicon,2.2
+Honor 20,Android,174,Honor,3,China,Kirin 980,HiSilicon,2.6
+Honor 20 Pro,Android,182,Honor,3,China,Kirin 980,HiSilicon,2.6
+Honor 20 Lite,Android,164,Honor,3,China,Kirin 710,HiSilicon,2.2
+Honor View 10,Android,172,Honor,3,China,Kirin 970,HiSilicon,2.36
+Honor View 20,Android,180,Honor,3,China,Kirin 980,HiSilicon,2.6
+Honor View 30,Android,200,Honor,3,China,Kirin 990,HiSilicon,2.86
+Honor View 40,Android,200,Honor,3,China,Kirin 9000,HiSilicon,3.13
+HTC U11,Android,169,HTC,3,Taiwan,Snapdragon 835,Qualcomm,2.45
+HTC U11 Plus,Android,188,HTC,3,Taiwan,Snapdragon 835,Qualcomm,2.45
+HTC U12 Plus,Android,188,HTC,3,Taiwan,Snapdragon 845,Qualcomm,2.8
+HTC U19e,Android,180,HTC,3,Taiwan,Snapdragon 710,Qualcomm,2.2
+HTC Desire 20 Pro,Android,201,HTC,3,Taiwan,Helio P35,Mediatek,2.3
+HTC Desire 21 Pro,Android,190,HTC,3,Taiwan,Snapdragon 690,Qualcomm,2
+HTC Desire 22 Pro,Android,190,HTC,3,Taiwan,Snapdragon 695,Qualcomm,2
+HTC Desire 23 Pro,Android,190,HTC,3,Taiwan,Snapdragon 670,Qualcomm,2
+HTC Desire 24 Pro,Android,190,HTC,3,Taiwan,Snapdragon 670,Qualcomm,2
+HTC Desire 26 Pro,Android,190,HTC,3,Taiwan,Snapdragon 678,Qualcomm,2
+HTC Desire 27 Pro,Android,190,HTC,3,Taiwan,Snapdragon 695,Qualcomm,2
+Nokia 6,Android,169,Nokia,3,Finland,Snapdragon 430,Qualcomm,1.4
+Nokia 6.1,Android,172,Nokia,3,Finland,Snapdragon 630,Qualcomm,2.2
+Nokia 6.1 Plus,Android,151,Nokia,3,Finland,Snapdragon 636,Qualcomm,1.8
+Nokia 7,Android,160,Nokia,3,Finland,Snapdragon 630,Qualcomm,2.2
+Nokia 7 Plus,Android,183,Nokia,3,Finland,Snapdragon 660,Qualcomm,2.2
+Nokia 7.1,Android,160,Nokia,3,Finland,Snapdragon 636,Qualcomm,1.8
+Nokia 7.2,Android,180,Nokia,3,Finland,Snapdragon 660,Qualcomm,2.2
+Nokia 8,Android,160,Nokia,3,Finland,Snapdragon 835,Qualcomm,2.45
+Nokia 8 Sirocco,Android,177,Nokia,3,Finland,Snapdragon 835,Qualcomm,2.45
+Nokia 8.1,Android,180,Nokia,3,Finland,Snapdragon 710,Qualcomm,2.2
+Nokia 8.2,Android,180,Nokia,3,Finland,Snapdragon 765G,Qualcomm,2.4
+Nokia 8.3 5G,Android,220,Nokia,3,Finland,Snapdragon 765G,Qualcomm,2.4
+Nokia 9 PureView,Android,172,Nokia,3,Finland,Snapdragon 845,Qualcomm,2.8
+Nokia 9.3 PureView,Android,220,Nokia,3,Finland,Snapdragon 865,Qualcomm,2.84
+Nokia 10 PureView,Android,195,Nokia,3,Finland,Snapdragon 875,Qualcomm,2.84
+Nokia 10,Android,195,Nokia,3,Finland,Snapdragon 888,Qualcomm,2.84
+Nokia 11,Android,195,Nokia,3,Finland,Snapdragon 895,Qualcomm,3.5
+LG G6,Android,163,LG,5,South Korea,Snapdragon 821,Qualcomm,2.35
+LG G7 ThinQ,Android,162,LG,5,South Korea,Snapdragon 845,Qualcomm,2.8
+LG G8 ThinQ,Android,167,LG,5,South Korea,Snapdragon 855,Qualcomm,2.84
+LG G8X ThinQ,Android,192,LG,5,South Korea,Snapdragon 855,Qualcomm,2.84
+LG V30,Android,158,LG,5,South Korea,Snapdragon 835,Qualcomm,2.45
+LG V40 ThinQ,Android,169,LG,5,South Korea,Snapdragon 845,Qualcomm,2.8
+LG V50 ThinQ,Android,183,LG,5,South Korea,Snapdragon 855,Qualcomm,2.84
+LG V60 ThinQ,Android,218,LG,5,South Korea,Snapdragon 865,Qualcomm,2.84
+LG Velvet,Android,180,LG,5,South Korea,Snapdragon 765G,Qualcomm,2.4
+LG Wing,Android,260,LG,5,South Korea,Snapdragon 765G,Qualcomm,2.4
+LG Velvet 2 Pro,Android,180,LG,5,South Korea,Snapdragon 778G,Qualcomm,2.4
+LG V40 ThinQ 2,Android,169,LG,5,South Korea,Snapdragon 845,Qualcomm,2.8
+LG V70,Android,180,LG,5,South Korea,Snapdragon 888,Qualcomm,2.84
+LG V80,Android,180,LG,5,South Korea,Snapdragon 775G,Qualcomm,2.5
+LG V90,Android,180,LG,5,South Korea,Snapdragon 775G,Qualcomm,2.5
+LG Flex,Android,177,LG,5,South Korea,Snapdragon 810,Qualcomm,1.5
+LG Flex 2,Android,152,LG,5,South Korea,Snapdragon 810,Qualcomm,1.5
+LG Flex 3,Android,208,LG,5,South Korea,Snapdragon 8 Gen 1,Qualcomm,3
+OnePlus 5,Android,153,OnePlus,5,China,Snapdragon 835,Qualcomm,2.45
+OnePlus 5T,Android,162,OnePlus,5,China,Snapdragon 835,Qualcomm,2.45
+OnePlus 6,Android,177,OnePlus,5,China,Snapdragon 845,Qualcomm,2.8
+OnePlus 6T,Android,185,OnePlus,5,China,Snapdragon 845,Qualcomm,2.8
+OnePlus 7,Android,182,OnePlus,5,China,Snapdragon 855,Qualcomm,2.84
+OnePlus 7 Pro,Android,206,OnePlus,5,China,Snapdragon 855,Qualcomm,2.84
+OnePlus 7T,Android,190,OnePlus,5,China,Snapdragon 855+,Qualcomm,3.09
+OnePlus 7T Pro,Android,206,OnePlus,5,China,Snapdragon 855+,Qualcomm,3.09
+OnePlus 8,Android,180,OnePlus,5,China,Snapdragon 865,Qualcomm,2.84
+OnePlus 8 Pro,Android,199,OnePlus,5,China,Snapdragon 865,Qualcomm,2.84
+OnePlus 8T,Android,188,OnePlus,5,China,Snapdragon 865,Qualcomm,2.84
+OnePlus 9,Android,200,OnePlus,5,China,Snapdragon 888,Qualcomm,2.84
+OnePlus 9 Pro,Android,197,OnePlus,5,China,Snapdragon 888,Qualcomm,2.84
+OnePlus 9T,Android,200,OnePlus,5,China,Snapdragon 8 Gen 2,Qualcomm,3
+Moto G5,Android,144,Motorola,5,USA,Snapdragon 430,Qualcomm,1.4
+Moto G5 Plus,Android,155,Motorola,5,USA,Snapdragon 625,Qualcomm,2
+Moto G5S,Android,157,Motorola,5,USA,Snapdragon 430,Qualcomm,1.4
+Moto G5S Plus,Android,168,Motorola,5,USA,Snapdragon 625,Qualcomm,2
+Moto G6,Android,167,Motorola,5,USA,Snapdragon 450,Qualcomm,1.8
+Moto G6 Plus,Android,167,Motorola,5,USA,Snapdragon 630,Qualcomm,2.2
+Moto G6 Play,Android,175,Motorola,5,USA,Snapdragon 430,Qualcomm,1.4
+Moto G7,Android,172,Motorola,5,USA,Snapdragon 632,Qualcomm,1.8
+Moto G7 Plus,Android,176,Motorola,5,USA,Snapdragon 636,Qualcomm,1.8
+Moto G7 Power,Android,193,Motorola,5,USA,Snapdragon 632,Qualcomm,1.8
+Moto G7 Play,Android,149,Motorola,5,USA,Snapdragon 632,Qualcomm,1.8
+Moto G8,Android,188,Motorola,5,USA,Snapdragon 665,Qualcomm,2
+Moto G8 Plus,Android,188,Motorola,5,USA,Snapdragon 665,Qualcomm,2
+Moto G8 Power,Android,197,Motorola,5,USA,Snapdragon 665,Qualcomm,2
+Moto G8 Power Lite,Android,200,Motorola,5,USA,Helio P35,Mediatek,2.3
+Moto G Fast,Android,189,Motorola,5,USA,Snapdragon 665,Qualcomm,2
+Moto G Stylus,Android,192,Motorola,5,USA,Snapdragon 665,Qualcomm,2
+Moto G Power,Android,199,Motorola,5,USA,Snapdragon 665,Qualcomm,2
+Moto G Play,Android,166,Motorola,5,USA,Snapdragon 460,Qualcomm,1.8
+Moto G9 Play,Android,200,Motorola,5,USA,Snapdragon 662,Qualcomm,2
+Moto G9 Plus,Android,223,Motorola,5,USA,Snapdragon 730G,Qualcomm,2.2
+Moto G9 Power,Android,221,Motorola,5,USA,Snapdragon 662,Qualcomm,2
+Moto G10,Android,200,Motorola,5,USA,Snapdragon 460,Qualcomm,1.8
+Moto G10 Power,Android,220,Motorola,5,USA,Snapdragon 460,Qualcomm,1.8
+Moto G30,Android,200,Motorola,5,USA,Snapdragon 662,Qualcomm,2
+Moto G40 Fusion,Android,212,Motorola,5,USA,Snapdragon 732G,Qualcomm,2.3
+Moto G60,Android,225,Motorola,5,USA,Snapdragon 732G,Qualcomm,2.3
+Moto G100,Android,207,Motorola,5,USA,Snapdragon 870,Qualcomm,3.2
+Moto X4,Android,163,Motorola,5,USA,Snapdragon 630,Qualcomm,2.2
+Moto X Style,Android,179,Motorola,5,USA,Snapdragon 808,Qualcomm,1.8
+Moto X Play,Android,169,Motorola,5,USA,Snapdragon 615,Qualcomm,1.7
+Moto X Force,Android,169,Motorola,5,USA,Snapdragon 810,Qualcomm,2
+Moto X Pure Edition,Android,179,Motorola,5,USA,Snapdragon 808,Qualcomm,1.8
+Moto X Style (Pure Edition),Android,179,Motorola,5,USA,Snapdragon 808,Qualcomm,1.8
+Moto X Pro,Android,179,Motorola,5,USA,Snapdragon 805,Qualcomm,2.7
+Moto X 2017,Android,163,Motorola,5,USA,Snapdragon 625,Qualcomm,2
+Moto X4 (2017),Android,163,Motorola,5,USA,Snapdragon 630,Qualcomm,2.2
+Moto X5,Android,163,Motorola,5,USA,Snapdragon 845,Qualcomm,2.8
+Moto X6,Android,163,Motorola,5,USA,Snapdragon 845,Qualcomm,2.8
+Moto X7,Android,163,Motorola,5,USA,Snapdragon 865,Qualcomm,2.84
+Moto X8,Android,163,Motorola,5,USA,Snapdragon 865,Qualcomm,2.84
+Moto X9,Android,163,Motorola,5,USA,Snapdragon 865,Qualcomm,2.84
+Moto X10,Android,163,Motorola,5,USA,Snapdragon 875,Qualcomm,2.84
+Moto X20,Android,163,Motorola,5,USA,Snapdragon 895,Qualcomm,3.5
+Zenfone 4,Android,165,Asus,2,Taiwan,Snapdragon 630,Qualcomm,2.2
+Zenfone 4 Pro,Android,175,Asus,2,Taiwan,Snapdragon 835,Qualcomm,2.45
+Zenfone 5,Android,155,Asus,2,Taiwan,Snapdragon 636,Qualcomm,1.8
+Zenfone 5Z,Android,155,Asus,2,Taiwan,Snapdragon 845,Qualcomm,2.8
+Zenfone 5 Lite,Android,168,Asus,2,Taiwan,Snapdragon 430,Qualcomm,1.4
+Zenfone 5 Selfie,Android,168,Asus,2,Taiwan,Snapdragon 430,Qualcomm,1.4
+Zenfone 5 Selfie Pro,Android,175,Asus,2,Taiwan,Snapdragon 630,Qualcomm,2.2
+Zenfone 6,Android,190,Asus,2,Taiwan,Snapdragon 855,Qualcomm,2.84
+Zenfone 6Z,Android,190,Asus,2,Taiwan,Snapdragon 855,Qualcomm,2.84
+Zenfone 6 Lite,Android,190,Asus,2,Taiwan,Snapdragon 660,Qualcomm,2.2
+Zenfone 6 Selfie,Android,190,Asus,2,Taiwan,Snapdragon 660,Qualcomm,2.2
+Zenfone 6 Selfie Pro,Android,190,Asus,2,Taiwan,Snapdragon 660,Qualcomm,2.2

@@ -1,0 +1,2 @@
+javac code.java
+java -cp ".:/usr/share/java/mariadb-java-client.jar" code
